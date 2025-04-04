@@ -1,0 +1,8 @@
+fastapi 
+python-dotenv
+uvicorn 
+sqlalchemy
+openai
+tenacity
+pydantic
+anthropic
