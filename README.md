@@ -64,6 +64,10 @@ DATABASE_URL=your_database_url
 uvicorn main:app --reload
 ```
 
+### 6. Call the API from postman
+
+Check the documentation: http://127.0.0.1:8000/docs
+
 ## ❗ SQL Retry Logic
 If an LLM-generated SQL query fails, the system will:
 
