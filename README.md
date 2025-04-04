@@ -32,8 +32,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Chandreshkhunt31/sql-agent.git
-cd sql-agent
+git clone https://github.com/Chandreshkhunt31/SQL-AI-Agent.git
+cd SQL-AI-Agent
 ```
 
 ### 2. Set up a virtual environment
